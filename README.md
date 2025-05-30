@@ -1,7 +1,7 @@
 # User-Authentication-API-with-Express-and-SQLite
 
 
-# User Authentication API with Express and SQLite
+
 
 This is a simple and secure **User Authentication API** built using **Node.js**, **Express**, **SQLite**, and **bcrypt** for password hashing. The API supports basic user authentication functionality, including **registration**, **login**, and **password change**.
 
